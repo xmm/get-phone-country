@@ -310,7 +310,7 @@ def clear_phone(phone):
     '''
     if not phone:
         return phone
-    return phone.translate(None, ' ()-')
+    return str(phone).translate(None, ' ()-')
 
 def get_phone_country(phone):
     '''Returns list of country codes by phone number.
