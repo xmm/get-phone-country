@@ -8,5 +8,7 @@ Most of the codes is taken from http://www.andrewpatton.com/countrylist.html
 Canadian and Kazakhstan codes is taken from the Wikipedia.
 
 Author: Marat Khayrullin <xmm.dev@gmail.com>
+
 License: BSD
+
 HomeSite: https://github.com/xmm/get-phone-country
